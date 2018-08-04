@@ -1,0 +1,11 @@
+class Hi
+{
+
+ public static void mian(String args[]){
+
+    System.out.println("-----------------------------");
+  
+
+ }
+
+}
